@@ -6,16 +6,16 @@ body{
     background-size: cover;
 }
 .c1r1{
-    background-image: url(/images/p);
+    background-image: url(./images/P3);
     }
     .c2r1{
-    background-image: url(/images/P3.JPG);
+    background-image: url(./images/P3.JPG);
     }
     .c1r2{
-    background-image: url(/images/P3.JPG); 
+    background-image: url(./images/P3.JPG); 
     }
     .c2r2{
-    background-image: url(/images/P3.JPG);
+    background-image: url(./images/P3.JPG);
     }
 @media screen and (min-width:400px) and (max-width:800px){
     #logo{
